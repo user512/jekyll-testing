@@ -1,0 +1,12 @@
+# Site settings
+title: Testing
+email: tlee418@ucla.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Hey, this is Tom Lee. I am in the 2015 Dev Bootcamp cohort and I will be spending a few months learning web development. I love learning about new stuff and I am looking forward building awesome project.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: rubyuser17
+github_username:  user512
+
+# Build settings
+markdown: kramdown
